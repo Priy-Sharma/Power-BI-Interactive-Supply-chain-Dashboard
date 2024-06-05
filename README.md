@@ -26,7 +26,8 @@ The Graphs and KPI's present in the <u> overview </u> section are:
   <li>Cancel Orders</li>
 </ul>
 
-![Screenshot (1352)](https://github.com/Priy-Sharma/Power-BI-Interactive-Supply-chain-Dashboard/assets/161149109/deba8d2a-25e2-4a95-98c9-dea38aed784e)
+![Screenshot (1354)](https://github.com/Priy-Sharma/Power-BI-Interactive-Supply-chain-Dashboard/assets/161149109/e84e42b8-9e5c-420f-aed5-7708b141ca73)
+
 
 <h2><b>Key Insights:</b></h2>
 <ul>
@@ -94,9 +95,9 @@ The Graphs and KPI's present in the <bu> Fiancial Performance </bu> section are:
   <li> Sum of Profit</li>
 </ul>
 
-</br>
-![Screenshot (1353)](https://github.com/Priy-Sharma/Power-BI-Interactive-Supply-chain-Dashboard/assets/161149109/4a0dcc03-44c2-414b-b231-e9ca368cf2c1)
-</br>
+
+![Screenshot (1353)](https://github.com/Priy-Sharma/Power-BI-Interactive-Supply-chain-Dashboard/assets/161149109/ff041dc5-7479-455c-a0d4-8db8b0a5ec8b)
+
 <h2><b>Key Insights:</b></h2>
 <ul>
   <li>Sum of Profit by Year</li>
@@ -125,4 +126,11 @@ The Graphs and KPI's present in the <bu> Fiancial Performance </bu> section are:
 </br>
   <b>Implication:</b>
   <p>This analysis helps identify the names of the countries within a specific region and their corresponding sales figures.</p>
+</ul>
+
+<h2> Don't Forget You Can Play with the Slicers: </h2>
+<ul>
+  <li>Select Year</li>
+  <li>Select Month</li>
+  <li>Select Category</li>
 </ul>
